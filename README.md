@@ -18,3 +18,5 @@ Created an interactive Excel dashboard to analyze sales performance using the Su
 
 ## Outcome
 Analyzed sales and profit trends to identify business performance across categories and time periods.
+
+![dashboard](DASHBOARD.png)
